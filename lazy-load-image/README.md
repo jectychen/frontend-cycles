@@ -1,7 +1,8 @@
 ##jQuery plugin for lazy load images  
----
+
+
 ###example  
----
+__________
 at first, you should add jquery file into the document:  
 
 `<script src="jquery.min.js"></script>`
@@ -23,8 +24,8 @@ and add the plugin to the document:
 	})
   
   
-###props
----
+###prop
+__________
 * threshold  
 * onShow  
 * onError  
