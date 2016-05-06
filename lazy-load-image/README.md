@@ -3,10 +3,10 @@
 ###example  
 ***
 at first, you should add jquery file into the document:  
-'<script src="jquery.min.js"></script>'
+`<script src="jquery.min.js"></script>`
   
 and add the plugin to the document:  
-'<script src="lazy-load-image.js"></script>'    
+`<script src="lazy-load-image.js"></script>`   
 
     $('.lazy-image').imgLazyLoad({
 		threshold : -100, 
