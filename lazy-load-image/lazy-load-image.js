@@ -1,7 +1,6 @@
 ;(function($) {
     $.fn.imgLazyLoad = function(settings) {
         var self = this,
-            $self = $(this),
             defaultSet = {
                 threshold : 0,
                 onShow : null,
