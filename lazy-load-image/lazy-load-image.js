@@ -25,7 +25,7 @@
         }
 
         // load image func
-        function loadImage(el, fn) {
+        function loadImage(el) {
             var image = new Image(),
                 src = el.getAttribute('data-src');
 
